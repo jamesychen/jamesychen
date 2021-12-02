@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Chen
 - 👀 I’m interested in the data field
-- 🌱 I’m currently learning SQL, Python, R, Tableau
+- 🌱 I’m proficient SQL, R, Tableau
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me @ jmschen@gmail.com
 
